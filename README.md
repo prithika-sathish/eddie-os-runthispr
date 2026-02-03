@@ -8,29 +8,6 @@ We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositor
 
 ---
 
-## Hacktoberfest
-
-What is it? Click on the poster below to watch the video for more details 📽
-
-[![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20original-0927f5.svg)](CODE_OF_CONDUCT.md) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EddieHubCommunity/open-source-practice)
-
-## open-source-practice Pull Requests
-
-Repository for you to raise a Pull Request to **practice** open-source! 🎉
-
-### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
-
-### Option 1. Complete this process in GitHub (in your browser)
-
-```mermaid
-flowchart LR
-    Fork[Fork the project]-->branch[Create a New Branch]
-    branch-->Edit[Edit file]
-    Edit-->commit[Commit the changes]
-    commit -->|Finally|creatpr((Create a Pull Request))
-```
 
 **1. Fork the project:**
 
