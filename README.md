@@ -175,7 +175,24 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - You can also ask for help in our [Discord server](http://discord.eddiehub.org) or submit an issue in the [Support repository](https://github.com/EddieHubCommunity/support).
 
----
+## 🔐 GitHub App Webhooks (Beginner Note)
+
+If you are building tools that integrate with GitHub Pull Requests,  
+prefer **GitHub Apps** over personal access tokens.
+
+Why:
+- Fine-grained permissions
+- Secure webhook delivery
+- Works well for automation and bots
+
+Typical flow:
+1. Create a GitHub App
+2. Install it on a repository
+3. Subscribe to Pull Request events
+4. Handle webhooks in your backend
+
+This approach is commonly used in CI tools, bots, and code-analysis systems.
+
 
 ## `Hacktoberfest Community`
 
